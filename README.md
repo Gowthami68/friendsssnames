@@ -1,0 +1,2 @@
+# friendsssnames
+mysscfriendsnames
