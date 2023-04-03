@@ -1,0 +1,3 @@
+itemname, price
+chickenbiryani, 120
+fish curry,200
